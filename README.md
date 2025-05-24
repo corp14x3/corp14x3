@@ -1,6 +1,11 @@
-<a
-href="http://www.github.com/corp14x3"><img src="https://github-readme-stats.vercel.app/api?username=corp14x3&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="corp14x3's GitHub stats" /></a><a
+
+
+<p align="center">
+  <a href="http://www.github.com/corp14x3"><img src="https://github-readme-stats.vercel.app/api username=corp14x3&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="corp14x3's GitHub stats" /></a><a
 href="http://www.github.com/corp14x3">
+</p>
+
+
 
 ![komarev](https://komarev.com/ghpvc/?username=corp14x3&color=D22B2B)
 </div>
