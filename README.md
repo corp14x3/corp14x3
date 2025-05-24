@@ -1,5 +1,5 @@
 
-<p align="center">### Socials</p>
+<p align="center">Socials</p>
 
                   
 <p align="center">
