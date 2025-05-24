@@ -5,9 +5,10 @@
 ![komarev](https://komarev.com/ghpvc/?username=corp14x3&color=D22B2B)
 </div>
 
-### Socials
+
                   
 <p align="center">
+  ### Socials
                       <a href="https://discord.com/users/corp14x3" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
